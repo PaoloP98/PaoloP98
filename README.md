@@ -3,6 +3,7 @@
 <!--(url)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloP98&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/PaoloP98/PaoloP98"></a>
+  <a href="#"><img src="https://badges.pufler.dev/years/PaoloP98"></a>
 </p>
 
 ### Tech Stack
