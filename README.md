@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaoloP98&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--(url)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloP98&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/PaoloP98/PaoloP98"></a> o/
+</p>
 
 ### Tech Stack
 
