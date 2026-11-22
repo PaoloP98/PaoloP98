@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/PaoloP98/PaoloP98"></a>
-  <a href="#"><img src="https://badges.pufler.dev/years/PaoloP98"></a>
-</p>
 
 ### Tech Stack
 
@@ -14,18 +10,3 @@
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-<!--
-**PaoloP98/PaoloP98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
